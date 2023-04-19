@@ -1,0 +1,6 @@
+Perro;Dog
+Mesa;Table
+Sol;Sun
+Luna;Moon
+Gato;Cat
+Caballo;Horse
